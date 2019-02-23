@@ -1,0 +1,24 @@
+{
+  "name": "netlify-redirect",
+  "version": "1.0.0",
+  "baseUrl": "https://dsl.cx",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dslemay/netlify-redirect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dslemay/netlify-redirect/issues"
+  },
+  "homepage": "https://github.com/dslemay/netlify-redirect#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
