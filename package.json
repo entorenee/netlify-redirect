@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dslemay/netlify-redirect.git"
+    "url": "git+https://github.com/entorenee/netlify-redirect.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dslemay/netlify-redirect/issues"
+    "url": "https://github.com/entorenee/netlify-redirect/issues"
   },
-  "homepage": "https://github.com/dslemay/netlify-redirect#readme",
+  "homepage": "https://github.com/entorenee/netlify-redirect#readme",
   "devDependencies": {
     "netlify-shortener": "^1.0.3"
   }
